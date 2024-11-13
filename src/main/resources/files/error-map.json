@@ -1,0 +1,52 @@
+[
+  {
+    "errorKey": "1",
+    "messageAr": "الموظف موجود بالفعل",
+    "messageEn": "Employee is already exist"
+  },
+  {
+    "errorKey": "2",
+    "messageAr": "الاسم الاول مطلوب",
+    "messageEn": "First name is required"
+  },
+  {
+    "errorKey": "3",
+    "messageAr": "الاسم الاخير مطلوب",
+    "messageEn": "Last name is required"
+  },
+  {
+    "errorKey": "4",
+    "messageAr": "البريد الالكتروني مطلوب",
+    "messageEn": "Email is required"
+  },
+  {
+    "errorKey": "5",
+    "messageAr": "القسم مطلوب",
+    "messageEn": "Department is required"
+  },
+  {
+    "errorKey": "6",
+    "messageAr": "الراتب لا يصل للحد الادنى",
+    "messageEn": "Salary must meet min limit"
+  },
+  {
+    "errorKey": "7",
+    "messageAr": "الراتب يتجاوز الحد الاقصى",
+    "messageEn": "Salary must be less than max limit"
+  },
+  {
+    "errorKey": "8",
+    "messageAr": "البريد الالكتروني غير صالح",
+    "messageEn": "Invalid email address"
+  },
+  {
+    "errorKey": "9",
+    "messageAr": "الموظف غير موجود",
+    "messageEn": "Employee not found"
+  },
+  {
+    "errorKey": "10",
+    "messageAr": "حدث خطأ",
+    "messageEn": "Something went wrong"
+  }
+]
